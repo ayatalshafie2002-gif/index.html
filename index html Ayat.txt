@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ayat Alshafie | Medical Microbiology Portfolio</title>
+</head>
+<body>
+
+    <header>
+        <h1>Ayat Alshafie</h1>
+        <p><em>Medical Microbiology Student | Aspiring Clinical Scientist</em></p>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#skills">My Skills</a></li>
+                <li><a href="#projects">My Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <hr>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I am a student specializing in Medical Microbiology. I am passionate about clinical diagnostics, pathogen identification, and the role of microorganisms in human health.</p>
+    </section>
+
+    <section id="skills">
+        <h3>My Skills</h3>
+        <ul>
+            <li>Aseptic Laboratory Techniques</li>
+            <li>Gram Staining & Microscopy</li>
+            <li>Microbial Culture & Identification</li>
+            <li>Clinical Data Analysis</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section id="projects">
+        <h2>My Projects</h2>
+        
+        <h3>1. Antimicrobial Sensitivity Study</h3>
+        <p>A laboratory project focused on testing the effectiveness of different antibiotics against common bacterial strains.</p>
+        
+        <h3>2. Pathogen Identification Lab</h3>
+        <p>A detailed study using biochemical tests to identify unknown clinical samples in a laboratory setting.</p>
+    </section>
+
+    <hr>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <ul>
+            <li><strong>Email:</strong> <a href="mailto:ayatalshafie2002@gmail.com">ayatalshafie2002@gmail.com</a></li>
+            <li><strong>Phone:</strong> <a href="tel:+256764790537">+256 764 790 537</a></li>
+        </ul>
+    </section>
+
+</body>
+</html>
